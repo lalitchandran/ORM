@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from Movies Database 
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-![u](image.png)
+![image](https://github.com/user-attachments/assets/63d81b62-6f46-407d-b175-134ca6d3d67e)
+
 
 ## DESIGN STEPS
 
@@ -44,7 +45,8 @@ admin.site.register(Loan,LoanAdmin)
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-22 220303.png>)
+![image](https://github.com/user-attachments/assets/58e8ef72-3117-49f2-8723-72a374869dc5)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
